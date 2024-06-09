@@ -10,3 +10,4 @@ langchain_chroma
 langchain_groq
 beautifulsoup4
 langchain_community
+pysqlite3-binary
