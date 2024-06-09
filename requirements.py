@@ -1,0 +1,12 @@
+dotenv
+unicode
+data
+cohere
+streamlit
+langchain
+langchain_core
+langchain_google_genai
+langchain_chroma
+langchain_groq
+beautifulsoup4
+langchain_community
